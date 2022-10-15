@@ -7,5 +7,5 @@
   </a>
 </div>
 <div id="badges" align="center">
-  <img src="https://komarev.com/ghpvc/?KemalSahin2001&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/KemalSahin2001&style=flat-square&color=blue" alt=""/>
 </div>
