@@ -60,3 +60,6 @@ I am a Artificial Intelligence Student in Hacettepe <img src="https://media.giph
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/visualstudio/visualstudio-plain.svg"  title="vs" alt="vs" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg"  title="vsc" alt="vsc" width="40" height="40"/>&nbsp;
   
+---
+
+### :fire: My Stats :
