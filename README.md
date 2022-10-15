@@ -23,4 +23,6 @@
 </div>
 ---
 
-### :woman_technologist: About Me :
+### :woman_technologist: About Me : 
+
+I am a Artificial Intelligence Student in Hacettepe <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
