@@ -33,4 +33,4 @@ I am a Artificial Intelligence Student in Hacettepe <img src="https://media.giph
 
 - :zap: In my free time, I solve problems on Hackerrank and read algorithm books.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kemal-şahin-a83881206/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Kemal-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kemal-şahin-a83881206/)
