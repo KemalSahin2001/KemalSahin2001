@@ -27,7 +27,7 @@
 
 I am an Artificial Intelligence Student in Hacettepe <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
 
-- :telescope: I’m working as a Mentor at Ecodation and currently working on Artificial Intelligence and Data Sience.
+- :telescope: I’m working as a Mentor at Ecodation and currently working on Artificial Intelligence and Data Science.
 
 - :seedling: Exploring computer vision.
 
