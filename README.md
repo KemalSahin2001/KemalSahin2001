@@ -1,7 +1,6 @@
 
 <!--horizontal divider(gradiant)-->
 <img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/5458e32190e6ab063937eb1230648750ddd7a6e6/resources/img/grid-snake.svg">
-https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
